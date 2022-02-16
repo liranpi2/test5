@@ -1,3 +1,6 @@
 [submodule "DSInternals"]
 	path = DSInternals
 	url = https://github.com/MichaelGrafnetter/DSInternals.git
+[submodule "sqlmap"]
+	path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
