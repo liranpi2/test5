@@ -4,3 +4,6 @@
 [submodule "sqlmap"]
 	path = sqlmap
 	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "Snaffler"]
+	path = Snaffler
+	url = https://github.com/SnaffCon/Snaffler.git
